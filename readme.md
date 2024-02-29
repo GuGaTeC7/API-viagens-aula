@@ -10,4 +10,4 @@
 <br \>uvicorn main:app --host 127.0.0.1 --port <p>5000
 
 <img src="/swagger.png" alt="swagger">
-<img src="/post-get.png.png" alt="post e get">
+<img src="/post-get.png" alt="post e get">
